@@ -19,3 +19,4 @@ Du skal bruge **OpenWeatherMap (OWM) API** til at hente vejrdata fra deres serve
 
 ### Aflevering:
 - Push til GitHub og husk pull request til main
+<img width="1440" height="1024" alt="weather-app" src="https://github.com/user-attachments/assets/ae693ae1-8cfc-47ac-b72e-6af81726227c" />
